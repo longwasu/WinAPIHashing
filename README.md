@@ -7,6 +7,8 @@ Using when reverse engineering malware sample using Dynamic API Resolve techniqu
 
 
 ## Example 
+![image](https://github.com/user-attachments/assets/6e0e7aca-deb3-4bc3-aaff-69b3a532707b)
+
 
 
 
